@@ -5,7 +5,7 @@
 
 
 **Supplementary materials** concerning the manuscript
-# Studying Physics, getting to know Python: RC circuit, simple experiments and coding with Raspberry Pi
+# Studying Physics, getting to know Python. RC circuit, simple experiments, coding and data analysis with Raspberry Pi
 
 Submitted to **Computing in Science and Engineering**, 2020
 
