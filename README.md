@@ -38,5 +38,5 @@ Submitted to **Computing in Science and Engineering**, 2020
 
 * ### Copyright and License
 
-All content of <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><a rel="cc:attributionURL" property="dct:title" href="https://github.com/POSS-UniMe/RCwithRPi-test">Circuits with Raspberry Pi and Python</a> by <span property="cc:attributionName">Andrea Mandanici, Salvatore Alessandro Sarà, Giacomo Fiumara, and Giuseppe Mandaglio</span> is licensed under <a rel="license" href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</a>, and all code is under 
- <a rel="license" href="https://choosealicense.com/licenses/bsd-3-clause/">BSD 3-Clause
+All content of <p xmlns:dct="http://purl.org/dc/terms/" xmlns:cc="http://creativecommons.org/ns#" class="license-text"><a rel="cc:attributionURL" property="dct:title" href="https://github.com/POSS-UniMe/RCwithRPi-test">Circuits with Raspberry Pi and Python</a> by <span property="cc:attributionName">Andrea Mandanici, Salvatore Alessandro Sarà, Giacomo Fiumara, and Giuseppe Mandaglio</span> is licensed under <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, and all code is under 
+ <a rel="license" href="https://choosealicense.com/licenses/bsd-3-clause-clear/">BSD 3-Clause Clear License
